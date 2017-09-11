@@ -1,0 +1,5 @@
+1. Copy this App to your andriod(Samsung) device.
+2. Install the app.
+3. Connect your device to SamsungVR.
+4. Run the app.
+5. Visualize the analysis of various towns on the basis of their power distribution policy.
